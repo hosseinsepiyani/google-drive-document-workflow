@@ -36,5 +36,5 @@ A simple n8n workflow that automatically shares a Google Drive file and creates 
 ```
 ## Workflow Preview
 
-![Workflow Overview](screenshots/workflow-success.png)
+![Workflow](screenshots/workflow-success.png)
 
