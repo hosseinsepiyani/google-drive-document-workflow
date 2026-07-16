@@ -34,7 +34,5 @@ A simple n8n workflow that automatically shares a Google Drive file and creates 
 │ to Airtable         │
 └─────────────────────┘
 ```
-## Workflow Preview
 
-![Workflow](screenshots/workflow-success.png)
 
